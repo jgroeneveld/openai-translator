@@ -1,0 +1,3 @@
+root = "." # Path to the root directory of your project
+build = "go build -o ./tmp/main ." # Build command
+bin = "./tmp/main" # Path to the executable binary
